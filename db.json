@@ -1,0 +1,67 @@
+{
+    "users":
+    [
+        {
+            "uuid": "bdce0d87-23fe-42a0-8d3e-894397795d38",
+            "nickname": "tomaszeferino",
+            "name": "Tomás Zeferino",
+            "email": "tomas.zef10@gmail.com",
+            "password": "98b2c565ac12fb4542700ed597a09658a4fe361d871400926c2b7f14161679ef",
+            "safeplaces":
+            [
+                {
+                    "uuid": "2799a76c-dba5-4acc-9397-285ad1fd867e",
+                    "owner": "bdce0d87-23fe-42a0-8d3e-894397795d38",
+                    "title": "Home",
+                    "sharedWith":
+                    [
+                        {
+                            "uuid": "0b95e3db-5488-4d95-9ddb-b1190252601c"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "uuid": "0b95e3db-5488-4d95-9ddb-b1190252601c",
+            "nickname": "inessardinha",
+            "name": "Inês Sardinha",
+            "email": "nes.sardinha@gmail.com",
+            "password": "3945ea65e7f781a012ecac795d1042bed0148d99a5e9806f3fd84f71f6a3d646",
+            "safeplaces":
+            [
+                {
+                    "uuid": "2799a76c-dba5-4acc-9397-285ad1fd867e",
+                    "owner": "0b95e3db-5488-4d95-9ddb-b1190252601c",
+                    "title": "My Home",
+                    "sharedWith": []
+                },
+                {
+                    "uuid": "2799a76c-dba5-4acc-9397-285ad1fd867e",
+                    "owner": "bdce0d87-23fe-42a0-8d3e-894397795d38",
+                    "title": "Tomás' Home",
+                    "sharedWith": []
+                },
+                {
+                    "uuid": "2799a76c-dba5-4acc-9397-285ad1fd867e",
+                    "owner": "bdce0d87-23fe-42a0-8d3e-894397795d38",
+                    "title": "Parents' House",
+                    "sharedWith": []
+                },
+                {
+                    "uuid": "2799a76c-dba5-4acc-9397-285ad1fd867e",
+                    "owner": "bdce0d87-23fe-42a0-8d3e-894397795d38",
+                    "title": "Dog Hotel",
+                    "sharedWith": []
+                },
+                {
+                    "uuid": "2799a76c-dba5-4acc-9397-285ad1fd867e",
+                    "owner": "bdce0d87-23fe-42a0-8d3e-894397795d38",
+                    "title": "Someone's House",
+                    "sharedWith": []
+                }
+            ]
+        }
+
+    ]
+}
