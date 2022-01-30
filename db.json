@@ -31,7 +31,7 @@
             "safeplaces":
             [
                 {
-                    "uuid": "2799a76c-dba5-4acc-9397-285ad1fd867e",
+                    "uuid": "53247eea-0ed3-4ba9-895e-388b5822b55c",
                     "owner": "0b95e3db-5488-4d95-9ddb-b1190252601c",
                     "title": "My Home",
                     "sharedWith": []
@@ -43,19 +43,19 @@
                     "sharedWith": []
                 },
                 {
-                    "uuid": "2799a76c-dba5-4acc-9397-285ad1fd867e",
+                    "uuid": "04471428-5289-4100-92ef-2602c1aa6f62",
                     "owner": "bdce0d87-23fe-42a0-8d3e-894397795d38",
                     "title": "Parents' House",
                     "sharedWith": []
                 },
                 {
-                    "uuid": "2799a76c-dba5-4acc-9397-285ad1fd867e",
+                    "uuid": "6beb958a-1f3d-44b7-a1c5-3905bf37c402",
                     "owner": "bdce0d87-23fe-42a0-8d3e-894397795d38",
                     "title": "Dog Hotel",
                     "sharedWith": []
                 },
                 {
-                    "uuid": "2799a76c-dba5-4acc-9397-285ad1fd867e",
+                    "uuid": "66334344-e9b0-4c87-933f-97c59baefc74",
                     "owner": "bdce0d87-23fe-42a0-8d3e-894397795d38",
                     "title": "Someone's House",
                     "sharedWith": []
