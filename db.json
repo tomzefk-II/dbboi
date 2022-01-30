@@ -58,7 +58,12 @@
                     "uuid": "66334344-e9b0-4c87-933f-97c59baefc74",
                     "owner": "bdce0d87-23fe-42a0-8d3e-894397795d38",
                     "title": "Someone's House",
-                    "sharedWith": []
+                    "sharedWith":
+                    [
+                        {
+                            uuid: "bdce0d87-23fe-42a0-8d3e-894397795d38"
+                        }
+                    ]
                 }
             ]
         }
