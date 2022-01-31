@@ -17,7 +17,8 @@
         }
 
     ],
-    "safeplaces": [
+    "safeplaces":
+    [
         {
             "uuid": "2799a76c-dba5-4acc-9397-285ad1fd867e",
             "user": "bdce0d87-23fe-42a0-8d3e-894397795d38",
