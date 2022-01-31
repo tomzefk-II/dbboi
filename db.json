@@ -22,6 +22,11 @@
             "uuid": "2799a76c-dba5-4acc-9397-285ad1fd867e",
             "user": "bdce0d87-23fe-42a0-8d3e-894397795d38",
             "name": "Home"
-        }
+        },
+        {
+            "uuid": "0658ae15-dde1-43fb-9b4d-8eea81f4cd4e",
+            "user": "0b95e3db-5488-4d95-9ddb-b1190252601c",
+            "name": "My Home"
+        },
     ]
 }
