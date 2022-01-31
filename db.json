@@ -7,20 +7,6 @@
             "name": "Tomás Zeferino",
             "email": "tomas.zef10@gmail.com",
             "password": "98b2c565ac12fb4542700ed597a09658a4fe361d871400926c2b7f14161679ef",
-            "safeplaces":
-            [
-                {
-                    "uuid": "2799a76c-dba5-4acc-9397-285ad1fd867e",
-                    "owner": "bdce0d87-23fe-42a0-8d3e-894397795d38",
-                    "title": "Home",
-                    "sharedWith":
-                    [
-                        {
-                            "uuid": "0b95e3db-5488-4d95-9ddb-b1190252601c"
-                        }
-                    ]
-                }
-            ]
         },
         {
             "uuid": "0b95e3db-5488-4d95-9ddb-b1190252601c",
