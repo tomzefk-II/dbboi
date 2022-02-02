@@ -1,32 +1,45 @@
 {
-    "users":
-    [
-        {
-            "uuid": "bdce0d87-23fe-42a0-8d3e-894397795d38",
-            "pfp": "",
-            "nickname": "tomaszeferino",
-            "name": "Tomás Zeferino",
-            "email": "tomas.zef10@gmail.com",
-            "password": "98b2c565ac12fb4542700ed597a09658a4fe361d871400926c2b7f14161679ef"
-        },
+    "users": [
         {
             "uuid": "0b95e3db-5488-4d95-9ddb-b1190252601c",
-            "pfp": "nes.jpg",
-            "nickname": "inessardinha",
-            "name": "Inês Sardinha",
-            "email": "nes.sardinha@gmail.com",
-            "password": "3945ea65e7f781a012ecac795d1042bed0148d99a5e9806f3fd84f71f6a3d646"
+            "pfp": "76.jpg",
+            "gender": "female",
+            "age": 24,
+            "name": {
+                "first": "Emily",
+                "last": "Green"
+            },
+            "email": "emily.green@gmail.com",
+            "nickname": "emilygreen",
+            "password": "3945ea65e7f781a012ecac795d1042bed0148d99a5e9806f3fd84f71f6a3d646",
+            "dob": "1998-01-01",
+            "phone": "07436 296732",
+            "nat": "GB"
+        },
+        {
+            "uuid": "bdce0d87-23fe-42a0-8d3e-894397795d38",
+            "pfp": "47.jpg",
+            "gender": "male",
+            "age": 22,
+            "name": {
+                "first": "Theo",
+                "last": "Baker"
+            },
+            "email": "theo.baker@gmail.com",
+            "nickname": "theobaker",
+            "password": "98b2c565ac12fb4542700ed597a09658a4fe361d871400926c2b7f14161679ef",
+            "dob": "2000-11-27",
+            "phone": "07436 296732",
+            "nat": "GB"
         }
-
     ],
-    "safeplaces":
-    [
+    "safeplaces": [
         {
             "uuid": "2799a76c-dba5-4acc-9397-285ad1fd867e",
             "user": "bdce0d87-23fe-42a0-8d3e-894397795d38",
             "name": "Home",
             "coords": {
-                "lat":51.07291,
+                "lat": 51.07291,
                 "lon": 0.35883
             }
         },
@@ -35,7 +48,7 @@
             "user": "0b95e3db-5488-4d95-9ddb-b1190252601c",
             "name": "My Home",
             "coords": {
-                "lat":51.07291,
+                "lat": 51.07291,
                 "lon": 0.35883
             }
         }
