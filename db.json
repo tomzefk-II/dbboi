@@ -44,6 +44,15 @@
             }
         },
         {
+            "uuid": "92dba71b-4cf7-498d-8a40-fc554fffb04a",
+            "user": "bdce0d87-23fe-42a0-8d3e-894397795d38",
+            "name": "Waterstones",
+            "coords": {
+                "lat": 51.06253,
+                "lon": -0.32897
+            }
+        },
+        {
             "uuid": "0658ae15-dde1-43fb-9b4d-8eea81f4cd4e",
             "user": "0b95e3db-5488-4d95-9ddb-b1190252601c",
             "name": "My Home",
